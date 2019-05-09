@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "877249868381",
+    "firebase_url": "https://fir-5006b.firebaseio.com",
+    "project_id": "fir-5006b",
+    "storage_bucket": "fir-5006b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877249868381:android:be95fbb1938ab8a4",
+        "android_client_info": {
+          "package_name": "com.example.harshil.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877249868381-effq7rb0d48dbmg9v0an50t43fevh0bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48LhwkRvl9S6DLGEGX_ohdOYUC2pS5r4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
